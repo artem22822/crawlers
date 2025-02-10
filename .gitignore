@@ -1,0 +1,48 @@
+# Virtual environment folders and files
+venv/
+env/
+.venv/
+ENV/
+
+# SQLite database files
+*.sqlite3
+*.db
+db.sqlite3
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+*.bkp
+
+# IDE settings (PyCharm, VS Code, etc.)
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Configuration files and secrets
+*.env
+*.ini
+*.json
+*.yml
+*.yaml
+
+# Cache folders
+.cache/
+
+# Archive files
+*.tar
+*.gz
+*.zip
+*.rar
+*.7z
+
+# Temporary files
+*.tmp
+*.bak
